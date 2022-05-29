@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { AddCriminalModal } from "../components/add-criminal-model";
+import { AddCriminalModal } from "../components/add-criminal-modal";
 import { CriminalFilter } from "../components/criminal-filter";
 
 export default function Home() {
